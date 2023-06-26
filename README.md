@@ -24,4 +24,4 @@ En este repositorio se pueden encontrar los ejercicios requeridos para la exitos
 
 ## Certificado
 
-![Certificado curso Kotlin](certificado_fundamentosKotlin.pdf)
+![Certificado curso Kotlin](certificado_fundamentosKotlin.png)
